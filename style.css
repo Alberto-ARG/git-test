@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+footer{
+    background: #19A7CE;
+    color: black;
+}
+
+.redes-container{
+    display: flex;
+    justify-content: center;
+}
+
+.redes-container ul li{
+    display: inline-block;
+}
+
+
+
+
